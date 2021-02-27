@@ -1,0 +1,12 @@
+{
+  "name": "swiperMod",
+  "displayName": "swiperMod",
+  "expo": {
+    "name": "swiperMod",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
